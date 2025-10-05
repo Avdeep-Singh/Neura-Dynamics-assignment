@@ -1,0 +1,26 @@
+# Core LangChain and LangGraph
+langchain
+langgraph
+langchain-groq
+langchain-community
+langchain-huggingface
+
+# Vector Database
+qdrant-client
+
+# Web UI
+streamlit
+
+# APIs and Environment
+requests
+python-dotenv
+pyowm
+
+# PDF Processing
+pypdf
+
+# Tracing and Evaluation
+langsmith
+
+# Testing
+pytest
