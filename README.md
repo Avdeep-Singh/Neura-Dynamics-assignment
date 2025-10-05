@@ -32,7 +32,7 @@ Follow these steps to set up and run the project locally.
 
 **1. Clone the Repository**
 ```bash
-gh repo clone Avdeep-Singh/Neura-Dynamics-assignment
+git clone Avdeep-Singh/Neura-Dynamics-assignment
 cd Neura-Dynamics-assignment
 ```
 
