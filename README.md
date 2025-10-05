@@ -32,8 +32,8 @@ Follow these steps to set up and run the project locally.
 
 **1. Clone the Repository**
 ```bash
-git clone <your-repo-url>
-cd your-repo-name
+gh repo clone Avdeep-Singh/Neura-Dynamics-assignment
+cd Neura-Dynamics-assignment
 ```
 
 **2. Create a Conda Environment**
